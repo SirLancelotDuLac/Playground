@@ -7,3 +7,4 @@ TODO: Guide users through getting your code up and running on their own system. 
 2.	Software dependencies
 3.	Latest releases
 4.	API references
+![.NET Core](https://github.com/SirLancelotDuLac/Playground/workflows/.NET%20Core/badge.svg)
